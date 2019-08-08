@@ -1,0 +1,27 @@
+FONTLOG for Quarry Digger fonts
+
+This file provides detailed information on the Quarry Digger font Software.
+
+This information should be distributed along with the 
+Quarry Digger fonts and any derivative works.
+
+Basic Font Information
+
+
+
+To contribute to the project contact Dale Sattler 
+at dale@noponies.com
+
+ChangeLog
+
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), 
+email (E), web-address (if you have one) (W) and 
+description (D). This list is in alphabetical order.
+
+N: Dale Sattler [Noponies]
+E: dale@noponies.com
+W: http://noponies.com
+D: Original Type Designer
