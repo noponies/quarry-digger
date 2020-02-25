@@ -20,7 +20,8 @@ vat,
 r,
 p,
 "þ",
-A
+A,
+"ï"
 );
 copyright = "Copyright 2019 The Quarry Digger Project Authors (https://github.com/noponies)";
 customParameters = (
@@ -1458,15 +1459,18 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = I;
+transform = "{1, 0, 0, 1, 78, 0}";
 },
 {
+alignment = -1;
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, -88, 218}";
+transform = "{1, 0, 0, 1, -10, 218}";
 }
 );
 layerId = "63F83B90-CAEF-434E-8639-9EC66952CC6B";
-width = 258;
+width = 414;
 }
 );
 unicode = 00CF;
@@ -1515,15 +1519,18 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = I;
+transform = "{1, 0, 0, 1, 79, 0}";
 },
 {
+alignment = -1;
 name = macroncomb;
-transform = "{1, 0, 0, 1, -89, 218}";
+transform = "{1, 0, 0, 1, -10, 218}";
 }
 );
 layerId = "63F83B90-CAEF-434E-8639-9EC66952CC6B";
-width = 258;
+width = 415;
 }
 );
 unicode = 012A;
@@ -4875,7 +4882,7 @@ transform = "{1, 0, 0, 1, -10, 389}";
 }
 );
 layerId = "63F83B90-CAEF-434E-8639-9EC66952CC6B";
-width = 689;
+width = 646;
 }
 );
 unicode = 0127;
@@ -5000,15 +5007,18 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = idotless;
+transform = "{1, 0, 0, 1, 78, 0}";
 },
 {
+alignment = -1;
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, -88, 0}";
+transform = "{1, 0, 0, 1, -10, 0}";
 }
 );
 layerId = "63F83B90-CAEF-434E-8639-9EC66952CC6B";
-width = 258;
+width = 414;
 }
 );
 unicode = 00EF;
@@ -5056,15 +5066,18 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = idotless;
+transform = "{1, 0, 0, 1, 79, 0}";
 },
 {
+alignment = -1;
 name = macroncomb;
-transform = "{1, 0, 0, 1, -89, 0}";
+transform = "{1, 0, 0, 1, -10, 0}";
 }
 );
 layerId = "63F83B90-CAEF-434E-8639-9EC66952CC6B";
-width = 258;
+width = 415;
 }
 );
 unicode = 012B;
