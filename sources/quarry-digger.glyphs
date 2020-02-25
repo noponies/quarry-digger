@@ -1421,15 +1421,17 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = I;
 },
 {
+alignment = -1;
 name = acutecomb;
 transform = "{1, 0, 0, 1, 33, 218}";
 }
 );
 layerId = "63F83B90-CAEF-434E-8639-9EC66952CC6B";
-width = 258;
+width = 279;
 }
 );
 unicode = 00CD;
@@ -1440,15 +1442,18 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = I;
+transform = "{1, 0, 0, 1, 75, 0}";
 },
 {
+alignment = -1;
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, -85, 218}";
+transform = "{1, 0, 0, 1, -10, 218}";
 }
 );
 layerId = "63F83B90-CAEF-434E-8639-9EC66952CC6B";
-width = 258;
+width = 408;
 }
 );
 unicode = 00CE;
@@ -1539,17 +1544,67 @@ unicode = 012A;
 glyphname = Iogonek;
 layers = (
 {
-components = (
+anchors = (
 {
-name = I;
+name = bottom;
+position = "{167, 0}";
 },
 {
-name = ogonekcomb;
-transform = "{1, 0, 0, 1, -48, 0}";
+name = ogonek;
+position = "{270, 10}";
+},
+{
+name = top;
+position = "{167, 800}";
+},
+{
+name = topleft;
+position = "{58, 800}";
 }
 );
 layerId = "63F83B90-CAEF-434E-8639-9EC66952CC6B";
-width = 258;
+paths = (
+{
+closed = 1;
+nodes = (
+"246 0 LINE",
+"246 800 LINE",
+"88 800 LINE",
+"88 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"205 -226 OFFCURVE",
+"209 -226 OFFCURVE",
+"212 -226 CURVE",
+"212 -137 LINE",
+"198 -138 OFFCURVE",
+"153 -136 OFFCURVE",
+"132 -117 CURVE",
+"127 -112 OFFCURVE",
+"120 -104 OFFCURVE",
+"120 -84 CURVE",
+"120 -36 OFFCURVE",
+"223 9 OFFCURVE",
+"270 21 CURVE",
+"267 21 OFFCURVE",
+"162 66 OFFCURVE",
+"158 64 CURVE",
+"105 35 OFFCURVE",
+"30 -10 OFFCURVE",
+"30 -84 CURVE",
+"30 -125 OFFCURVE",
+"44 -159 OFFCURVE",
+"72 -184 CURVE",
+"112 -221 OFFCURVE",
+"170 -226 OFFCURVE",
+"201 -226 CURVE"
+);
+}
+);
+width = 310;
 }
 );
 unicode = 012E;
@@ -4988,15 +5043,18 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = idotless;
+transform = "{1, 0, 0, 1, 75, 0}";
 },
 {
+alignment = -1;
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, -85, 0}";
+transform = "{1, 0, 0, 1, -10, 0}";
 }
 );
 layerId = "63F83B90-CAEF-434E-8639-9EC66952CC6B";
-width = 258;
+width = 408;
 }
 );
 unicode = 00EE;
@@ -5088,19 +5146,22 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = idotless;
+transform = "{1, 0, 0, 1, 38, 0}";
 },
 {
 name = dotaccentcomb;
-transform = "{1, 0, 0, 1, 24, 0}";
+transform = "{1, 0, 0, 1, 62, 0}";
 },
 {
+alignment = -1;
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, -48, 0}";
+transform = "{1, 0, 0, 1, -10, 0}";
 }
 );
 layerId = "63F83B90-CAEF-434E-8639-9EC66952CC6B";
-width = 258;
+width = 310;
 }
 );
 unicode = 012F;
